@@ -3,8 +3,7 @@
 ## :chart_with_upwards_trend: Current Stats
 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohagzayan&theme=dark)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sohagzayan&theme=dark" alt="GitHub Streak" /></a>
 
 
 ## :eyes: Current overview
