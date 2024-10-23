@@ -5,7 +5,6 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
     <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&count_private=true&line_height=24&hide_rank=true&custom_title=sohagzayan's%20Stats&hide=issues&rank_icon=github&include_all_commits=true" alt="sohagzayan's Stats" />
- <br /> 
    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="sohagzayan's Top Languages" />
   </div>
   
