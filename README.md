@@ -14,7 +14,8 @@
   <br />
   
   <a href="https://git.io/streak-stats">
-    <img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=sohagzayan&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD00C2&stroke=DD2727&card_width=1000&height=200" alt="GitHub Streak" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github
+" alt="GitHub Streak" />
   </a>
 </div>
 
