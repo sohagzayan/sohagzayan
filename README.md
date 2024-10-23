@@ -8,7 +8,7 @@
   <div style="display: flex; justify-content: space-between; align-items: center;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&count_private=true&card_width=500&line_height=24&hide_rank=true&custom_title=sohagzayan's%20Stats&hide=issues&rank_icon=github&include_all_commits=true&height=200" alt="sohagzayan's Stats" />
  <br /> 
-   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=8&count_private=true&height=220" alt="sohagzayan's Top Languages" />
+   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&layout=compact&card_width=300&langs_count=8&count_private=true&height=220" alt="sohagzayan's Top Languages" />
   </div>
   
   <br />
