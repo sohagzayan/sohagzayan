@@ -4,12 +4,13 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohagzayan&langs_count=8)](https://github.com/sohagzayan/github-readme-stats) -->
 <div align="center">
 
-  <br />
-  <br />
   </a>
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
    <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagzayan&theme=blue-green&show_icons=true&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="sohagzayan's Top Languages" />
   </div>
+  
+  <br />
+  <br />
       <a href="https://git.io/streak-stats">
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=sohagzayan&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
