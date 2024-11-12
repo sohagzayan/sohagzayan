@@ -17,7 +17,7 @@
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=sohagzayan&theme=blue-green&hide_border=true&count_private=true" alt="GitHub Streak" />
 </div>
 
-## :eyes: Current overview 
+## :eyes: Current overviews
 
 ### 🔭 I’m working on - Remote kitchen.
 ### 🌱 I’m exploring - Advanced web development topics.
