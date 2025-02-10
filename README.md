@@ -19,8 +19,7 @@
 ### 🔭 I’m working on - Remote kitchen.
 ### 🌱 I’m exploring - Advanced web development topics.
 ### 👯 I’m looking to - Collaborate on open-source projects.
-### 🤔 I’m trying to - Help people learn web development.
-### 💬 Ask me about - React, TypeScript, Django, REST APIs, and more.
+### 💬 Ask me about - React,Nextjs, TypeScript, Node, REST APIs, and more.
 ### 📫 How to reach me - Drop me a message on GitHub or email me.
 ### ⚡ Fun fact - I enjoy solving real-world problems with coding and learning new tech!
 
